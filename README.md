@@ -1,4 +1,3 @@
-# Ellie Mullinax
 Current 3rd Year Student at the University of Georgia, Terry College of Business <br><br>
 **Technical Skills**:  Excel, R Studio, Tableau, HTML/CSS, MySQL Workbench
 
